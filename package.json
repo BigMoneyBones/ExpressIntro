@@ -1,0 +1,23 @@
+{
+  "name": "expressintro",
+  "version": "1.0.0",
+  "description": "npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm help init",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "npm",
+    "project"
+  ],
+  "author": "Jesse Raines",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
